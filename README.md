@@ -2,7 +2,7 @@
 
 <hr></hr>
 
-![My card name](https://cardivo.vercel.app/api?name=ABHIRAM_✌_SACHU&description=Hi,%20Welcome%20To%20My%20Profile%20😈&image=https://avatars.githubusercontent.com/u/90826638?v=4&s=10?v=4&backgroundColor=%23ecf0f1&instagram=abhiram_sachu_aj&github=KINGS-AS&twitter=&pattern=leaf&colorPattern=%23eaeaea)
+![My card name](https://cardivo.vercel.app/api?name=ABHIRAM_✌_SACHU&description=Hi,%20Welcome%20To%20My%20Profile%20😈&image=https://avatars.githubusercontent.com/u/95849340?v=4&s=10?v=4&backgroundColor=%23ecf0f1&instagram=abhiram_sachu_aj&github=KINGS-AS&twitter=&pattern=leaf&colorPattern=%23eaeaea)
 
 
 
