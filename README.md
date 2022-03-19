@@ -9,14 +9,14 @@
 						<header>
 							 <a href="as.png"><span class="avatar"><img width='200' height='200'  src="https://i.imgur.com/fKzd59Q.jpeg" alt=""> </a></span>
 							<h1>Hi i'am Abhiram </h1>
-							<h3 >• 10th student CBM Higher Secondary School, Nooranad, Kayamkulam</h3><h3>• I LIKE TO DEVELOPE WHATSAPP BOT, BUT I'M NOT A PRO</h3><h3>• 💬 Ask me about <strong>BOTS</strong></h3><h3>• 📫 How to reach me <a href="https://wa.me/917736771516?text=HI,%20I%20GOT%20THIS%20FROM%20YOUR%20WEBSITE%20❤">CONTACT ME ON WHATSAPP</h3><h3>• I'M LEARNING PROGRAMMING LANGUAGES
+							<h3 >• 10th student CBM Higher Secondary School, Nooranad, Kayamkulam</h3><h3>• I LIKE TO DEVELOPE WHATSAPP BOT, BUT I'M NOT A PRO</h3><h3>• 💬 Ask me about <strong>BOTS</strong></h3><h3>• 📫 How to reach me <a href="https://wa.me/917736771516?text=HI,%20I%20GOT%20THIS%20FROM%20YOUR%20WEBSITE%20❤">CONTACT ME ON WHATSAPP </h3><h3> • I'M LEARNING PROGRAMMING LANGUAGES
 						</header>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 
-<a href="https://instagram.com/headless__angels" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="headless_angels.exo" height="30" width="40" /></a>
-<a href="https://wa.me/+919544951258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="avo" height="30" width="40" /></a>
+<a href="https://instagram.com/KING_AS_OFC" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="headless_angels.exo" height="30" width="40" /></a>
+<a href="https://wa.me/917736771516" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="avo" height="30" width="40" /></a>
 </br></br>
 						
 _______						
