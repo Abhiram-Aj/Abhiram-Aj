@@ -56,7 +56,6 @@ _______
 
 [![github card](https://github-readme-stats.vercel.app/api/pin/?username=Abhiram-Aj&repo=Abhiram-Aj&theme=dark)](https://github.com/Abhiram-Aj/DADA)
 
-[![github card](https://github-readme-stats.vercel.app/api/pin/?username=Abhiram-Aj&repo=Terror_Queen&theme=dark)](https://github.com/Abhiram-Aj/Terror_Queen)
 
 
 
