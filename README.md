@@ -8,8 +8,18 @@
 <section id="main">
 						<header>
 							 <a href="as.png"><span class="avatar"><img width='200' height='200'  src="https://i.imgur.com/fKzd59Q.jpeg" alt=""> </a></span>
-							<h1>Hi i'am Abhiram </h1>
-							<h3 >• 10th student CBM Higher Secondary School, Nooranad, Kayamkulam</h3><h3>• I LIKE TO DEVELOPE WHATSAPP BOT, BUT I'M NOT A PRO</h3><h3>• 💬 Ask me about <strong>BOTS</strong></h3><h3>• 📫 How to reach me <a href="https://wa.me/917736771516?text=HI,%20I%20GOT%20THIS%20FROM%20YOUR%20WEBSITE%20❤">CONTACT ME ON WHATSAPP </h3><h3> • I'M LEARNING PROGRAMMING LANGUAGES
+
+
+- 👋 Hi, I’m @Abhiram-Aj
+
+- 👀 I’m interested in bot making
+
+- 🌱 I’m currently learning coding
+
+- 💞️ I’m looking to collaborate on my bot repo
+
+
+<h3 >• 10th student CBM Higher Secondary School, Nooranad, Kayamkulam</h3><h3>• I LIKE TO DEVELOPE WHATSAPP BOT, BUT I'M NOT A PRO</h3><h3>• 💬 Ask me about <strong>BOTS</strong></h3><h3>• 📫 How to reach me <a href="https://wa.me/917736771516?text=HI,%20I%20GOT%20THIS%20FROM%20YOUR%20WEBSITE%20❤">CONTACT ME ON WHATSAPP </h3><h3> • I'M LEARNING PROGRAMMING LANGUAGES
 						</header>
 
 <h2 align="left">Connect with me:</h2>
