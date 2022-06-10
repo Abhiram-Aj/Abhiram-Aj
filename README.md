@@ -43,11 +43,20 @@ _______
   </a>
   <a href="https://github.com/Abhiram-Aj?tab=followers">
     <img src="https://img.shields.io/github/followers/Abhiram-Aj?color=0000FF&label=Followers&style=plastic">
-<b>
+</br>
 
 ----
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abhiram-Aj" alt="Abhiram-Aj" /></a> </p>
+## MY GITHUB STATUS 
 
+  <img src="https://activity-graph.herokuapp.com/graph?username=Abhiram-Aj&amp;bg_color=000000&amp;color=4fff67&amp;line=4fff67&amp;point=ffffff&amp;area=true&amp;hide_border=true" alt="GitHub Activity Graph">
+  </div>
+
+<details>
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=Abhiram-Aj)
+
+</details>
 
 <details>
     <summary>&#127942 <b>GitHub Activity</b></summary><br/>
@@ -56,8 +65,8 @@ _______
 
 </details> 
 
-  <img src="https://activity-graph.herokuapp.com/graph?username=Abhiram-Aj&amp;bg_color=000000&amp;color=4fff67&amp;line=4fff67&amp;point=ffffff&amp;area=true&amp;hide_border=true" alt="GitHub Activity Graph">
-  </div>
+
+
 <p align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhiram-Aj&show_icons=true&theme=dark&locale=en&layout=compact" alt="Abhiram-Aj" /></p>
 
@@ -72,8 +81,8 @@ _______
 ----
 ## MY REPOSITORYS STATS 🔭
 
-[![github card](https://github-readme-stats.vercel.app/api/pin/?username=Abhiram-Aj&repo=RDX&theme=dark)](https://github.com/Abhiram-Aj/RDX)
-
 [![github card](https://github-readme-stats.vercel.app/api/pin/?username=Abhiram-Aj&repo=MiniMax&theme=dark)](https://github.com/Abhiram-Aj/MiniMax)
+
+[![github card](https://github-readme-stats.vercel.app/api/pin/?username=Abhiram-Aj&repo=RDX&theme=dark)](https://github.com/Abhiram-Aj/RDX)
 
 
