@@ -20,6 +20,8 @@
 
 - 💞️ I’m looking to collaborate on my bot repo
 
+![My card name](https://cardivo.vercel.app/api?name=ABHIRAM_✌_SACHU&description=Hi,%20Welcome%20To%20My%20Profile%20😈&image=https://avatars.githubusercontent.com/u/95849340?v=4&s=10?v=4&backgroundColor=%23ecf0f1&instagram=X_Abhiram_Aj_X&github=Abhiram-Aj&twitter=&pattern=leaf&colorPattern=%23eaeaea)
+
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
@@ -61,7 +63,7 @@ _______
 <details>
     <summary>&#127942 <b>GitHub Activity</b></summary><br/>
 
-![Metrics](https://metrics.lecoq.io/Abhiram-Aj?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2India)
+![Metrics](https://metrics.lecoq.io/Abhiram-Aj?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)
 
 </details> 
 
