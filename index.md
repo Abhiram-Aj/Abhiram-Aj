@@ -1,37 +1,90 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Abhiram-Aj/Abhiram-Aj/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<hr></hr>
+<!---
+![My card name](https://cardivo.vercel.app/api?name=ABHIRAM_✌_SACHU&description=Hi,%20Welcome%20To%20My%20Profile%20😈&image=https://avatars.githubusercontent.com/u/95849340?v=4&s=10?v=4&backgroundColor=%23ecf0f1&instagram=abhiram_sachu_aj&github=Abhiram-Aj&twitter=&pattern=leaf&colorPattern=%23eaeaea)
+--->
 
-### Markdown
+<section id="main">
+						<header>
+							 <a href="as.png"><span class="avatar"><img width='200' height='200'  src="https://telegra.ph/file/7b9604c720838360e06e5.jpg" alt=""> </a></span>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+- 👋 Hi, I’m @Abhiram-Aj
 
-# Header 1
-## Header 2
-### Header 3
+- ⏱️ I will github joined 2020 my first account banned
 
-- Bulleted
-- List
+- 👀 I’m interested in bot Development
 
-1. Numbered
-2. List
+- 🌱 I’m currently learning coding
 
-**Bold** and _Italic_ and `Code` text
+- 💞️ I’m looking to collaborate on my bot repo
 
-[Link](url) and ![Image](src)
-```
+![My card name](https://cardivo.vercel.app/api?name=ABHIRAM_✌_SACHU&description=Hi,%20Welcome%20To%20My%20Profile%20😈&image=https://avatars.githubusercontent.com/u/95849340?v=4&s=10?v=4&backgroundColor=%23ecf0f1&instagram=X_Abhiram_Aj_X&github=Abhiram-Aj&twitter=&pattern=leaf&colorPattern=%23eaeaea)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+<h2 align="left">Connect with me:</h2>
+<p align="left">
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Abhiram-Aj/Abhiram-Aj/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<a href="https://instagram.com/KING_AS_OFC" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="headless_angels.exo" height="30" width="40" /></a>
+<a href="https://wa.me/919605101516" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="avo" height="30" width="40" /></a>
+</br></br>
+						
+_______						
+<!---
+<img src="https://telegra.ph/file/72a4abf2a093bc0d4f6ed.jpg">
+--->
 
-### Support or Contact
+<p align="center">
+  <a href="https://github.com/Abhiram-Aj">
+    <img src="https://komarev.com/ghpvc/?username=Abhiram-Aj&label=Profile%200views&color=0000FF&label=Profile+Views&style=plastic">
+</a>
+  <a href="https://github.com/Abhiram-Aj?tab=stars">
+    <img src="https://img.shields.io/github/stars/Abhiram-Aj?color=0000FF&label=Stargazers&style=plastic">
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+  </a>
+  <a href="https://github.com/Abhiram-Aj?tab=followers">
+    <img src="https://img.shields.io/github/followers/Abhiram-Aj?color=0000FF&label=Followers&style=plastic">
+</br>
+
+----
+## MY GITHUB STATUS 
+
+  <img src="https://activity-graph.herokuapp.com/graph?username=Abhiram-Aj&amp;bg_color=000000&amp;color=4fff67&amp;line=4fff67&amp;point=ffffff&amp;area=true&amp;hide_border=true" alt="GitHub Activity Graph">
+  </div>
+
+<details>
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=Abhiram-Aj)
+
+</details>
+
+<details>
+    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
+
+![Metrics](https://metrics.lecoq.io/Abhiram-Aj?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)
+
+</details> 
+
+
+
+<p align="center">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhiram-Aj&show_icons=true&theme=dark&locale=en&layout=compact" alt="Abhiram-Aj" /></p>
+
+<p align="center">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhiram-Aj&show_icons=true&theme=dark&locale=en" alt="Abhiram-Aj" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhiram-Aj&theme=dark" alt="Abhiram-Aj" /></p>
+</p>
+
+</div>
+
+----
+## MY REPOSITORYS STATS 🔭
+
+[![github card](https://github-readme-stats.vercel.app/api/pin/?username=Abhiram-Aj&repo=MiniMax&theme=dark)](https://github.com/Abhiram-Aj/MiniMax)
+
+[![github card](https://github-readme-stats.vercel.app/api/pin/?username=Abhiram-Aj&repo=RDX&theme=dark)](https://github.com/Abhiram-Aj/RDX)
+
+
