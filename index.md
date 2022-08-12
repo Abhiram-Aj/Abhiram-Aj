@@ -1,10 +1,4 @@
 
-
-<hr></hr>
-<!---
-![My card name](https://cardivo.vercel.app/api?name=ABHIRAM_✌_SACHU&description=Hi,%20Welcome%20To%20My%20Profile%20😈&image=https://avatars.githubusercontent.com/u/95849340?v=4&s=10?v=4&backgroundColor=%23ecf0f1&instagram=abhiram_sachu_aj&github=Abhiram-Aj&twitter=&pattern=leaf&colorPattern=%23eaeaea)
---->
-
 <section id="main">
 						<header>
 							 <a href="as.png"><span class="avatar"><img width='200' height='200'  src="https://telegra.ph/file/7b9604c720838360e06e5.jpg" alt=""> </a></span>
