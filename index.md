@@ -1,7 +1,7 @@
 
 <section id="main">
 						<header>
-							 <a href="as.png"><span class="avatar"><img width='200' height='200'  src="https://i.imgur.com/cD6LmFi.jpeg" alt=""> </a></span>
+							 <a href="as.png"><span class="avatar"><img width='200' height='200'  src="https://i.imgur.com/cD6LmFi.jpeg" alt=""></a></span>
 
 
 
