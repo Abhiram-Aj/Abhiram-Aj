@@ -24,11 +24,12 @@
 
 
 <h2 align="left">Connect with me:</h2>
+
 <p align="left">
 
-<a href="https://instagram.com/KING_AS_OFC" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="headless_angels.exo" height="30" width="40" /></a>
-<a href="https://wa.me/919605101516" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="avo" height="30" width="40" /></a>
-</br></br>
+[Instagram](https://instagram.com/A_B_H_I_RAM.AJ07) 
+
+[WhatsApp](https://api.whatsapp.com/send?phone=+917994761437) 
 						
 _______						
 <!---
