@@ -51,8 +51,9 @@ _______
 ----
 ## MY GITHUB STATUS 
 
-  <img src="https://activity-graph.herokuapp.com/graph?username=Abhiram-Aj&amp;bg_color=000000&amp;color=4fff67&amp;line=4fff67&amp;point=ffffff&amp;area=true&amp;hide_border=true" alt="GitHub Activity Graph">
-  </div>
+
+<a href="http://www.github.com/Abhiram-Aj"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Abhiram-Aj&bg_color=000000&color=4fff67&line=22c55e&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
