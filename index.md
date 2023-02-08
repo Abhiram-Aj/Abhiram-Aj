@@ -2,7 +2,7 @@
 
 <section id="main">
 						<header>
-							 <a href="as.png"><span class="avatar"><img width='200' height='200'  src="https://i.imgur.com/cD6LmFi.jpeg" alt=""></span>
+							 <a href="as.png"><span class="avatar"><img width='200' height='200'  src="https://avatars.githubusercontent.com/u/95849340?v=4&s=10?v=4" alt=""></span>
 
 
 
@@ -26,9 +26,8 @@
   <a href="https://github.com/Abhiram-Aj?tab=followers">
     <img src="https://img.shields.io/github/followers/Abhiram-Aj?color=0000FF&label=Followers&style=plastic">
 
+<a href="http://www.github.com/Abhiram-Aj"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Abhiram-Aj&bg_color=27272a&color=ffffff&line=22c55e&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-  <img src="https://activity-graph.herokuapp.com/graph?username=Abhiram-Aj&amp;bg_color=000000&amp;color=4fff67&amp;line=4fff67&amp;point=ffffff&amp;area=true&amp;hide_border=true" alt="GitHub Activity Graph">
-  
 
 
 <p align="center">
