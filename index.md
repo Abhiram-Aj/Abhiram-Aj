@@ -1,12 +1,12 @@
 <html><head><audio src="https://abhiram-aj.github.io/Abhiram-Aj/AUD-20220827-WA0111.mp3" autoplay controls> </audio> 
 
+- 👋 Hi, I’m @Abhiram-Aj
+- 🌱 I’m currently learning coding
+
 <section id="main">
 						<header>
-							 <a href="as.png"><span class="avatar"><img width='200' height='200'  src="https://avatars.githubusercontent.com/u/95849340?v=4&s=10?v=4" alt=""></span>
-
-
-
-
+							 <a href="aj.jpg"><span class="avatar"><img width='200' height='200'  src="https://avatars.githubusercontent.com/u/95849340?v=4&s=10?v=4" alt=""></span>
+							 </br>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
