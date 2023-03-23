@@ -1,13 +1,14 @@
 <html><head><audio src="https://abhiram-aj.github.io/Abhiram-Aj/AUD-20220827-WA0111.mp3" autoplay controls> </audio> 
 
+<section id="main">
+						<header>
+							 <a href="aj.jpg"><span class="avatar"><img width='200' height='200'  src="https://avatars.githubusercontent.com/u/95849340?v=4&s=10?v=4" alt=""></span>
+							</a>
+
 • 👋 Hi, I’m @Abhiram-Aj
 
 • 🌱 I’m currently learning coding
 
-<section id="main">
-						<header>
-							 <a href="aj.jpg"><span class="avatar"><img width='200' height='200'  src="https://avatars.githubusercontent.com/u/95849340?v=4&s=10?v=4" alt=""></span>
-							
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
@@ -23,7 +24,7 @@
   <a href="https://github.com/Abhiram-Aj?tab=stars">
     <img src="https://img.shields.io/github/stars/Abhiram-Aj?color=0000FF&label=Stargazers&style=plastic">
 
-  </a>
+  
   <a href="https://github.com/Abhiram-Aj?tab=followers">
     <img src="https://img.shields.io/github/followers/Abhiram-Aj?color=0000FF&label=Followers&style=plastic">
 
