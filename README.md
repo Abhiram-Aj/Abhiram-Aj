@@ -27,7 +27,7 @@
 
 <p align="left">
 
-[Instagram](https://instagram.com/A_B_H_I_RAM.AJ07) 
+[Instagram](https://instagram.com/Abhiram_Aj_07) 
 
 [WhatsApp](https://api.whatsapp.com/send?phone=+917994761437) 
 						
