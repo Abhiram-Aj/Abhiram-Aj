@@ -12,13 +12,9 @@
 
 - 👋 Hi, I’m @Abhiram-Aj
 
-- ⏱️ I will github joined 2020 my first account banned
+- ⏱️ I was joined github 2020 my first account got banned
 
-- 👀 I’m interested in bot Development
-
-- 🌱 I’m currently learning coding
-
-- 💞️ I’m looking to collaborate on my bot repo
+- 🌱 I’m currently learning cyber security
 
 ![My card name](https://cardivo.vercel.app/api?name=ABHIRAM_✌_SACHU&description=Hi,%20Welcome%20To%20My%20Profile%20😈&image=https://avatars.githubusercontent.com/u/95849340?v=4&s=10?v=4&backgroundColor=%23ecf0f1&instagram=X_Abhiram_Aj_X&github=Abhiram-Aj&twitter=&pattern=leaf&colorPattern=%23eaeaea)
 
