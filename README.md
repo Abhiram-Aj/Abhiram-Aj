@@ -12,7 +12,7 @@
 
 - 👋 Hi, I’m @Abhiram-Aj
 
-- ⏱️ I was joined github 2020 my first account got banned
+- ⏱️ I joined github was 2020, my first account got banned
 
 - 🌱 I’m currently learning cyber security
 
@@ -28,7 +28,9 @@ _______
 <!---
 <img src="https://telegra.ph/file/72a4abf2a093bc0d4f6ed.jpg">
 --->
-
+<h1>Try Hack Me</h1>
+<iframe> src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1622532" style='border:none;'></iframe>
+<b>
 <p align="center">
   <a href="https://github.com/Abhiram-Aj">
     <img src="https://komarev.com/ghpvc/?username=Abhiram-Aj&label=Profile%200views&color=0000FF&label=Profile+Views&style=plastic">
