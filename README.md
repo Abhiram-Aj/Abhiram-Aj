@@ -28,17 +28,6 @@ _______
 <!---
 <img src="https://telegra.ph/file/72a4abf2a093bc0d4f6ed.jpg">
 --->
-<h1>Try Hack Me</h1>
-<!doctype html>
-<html>
-  <head><meta charset="utf-8"><title>TryHackMe Badge Embed</title></head>
-  <body>
-    <!-- use your server as the iframe source -->
-    <iframe src="/proxy/badge?user=1622532" style="border:none;width:600px;height:400px;"></iframe>
-  </body>
-</html>
-<iframe> src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1622532" style='border:none;'></iframe>
-<b>
 <p align="center">
   <a href="https://github.com/Abhiram-Aj">
     <img src="https://komarev.com/ghpvc/?username=Abhiram-Aj&label=Profile%200views&color=0000FF&label=Profile+Views&style=plastic">
@@ -52,27 +41,6 @@ _______
 </br>
 
 ----
-## MY GITHUB STATUS 
-
-
-<a href="http://www.github.com/Abhiram-Aj"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Abhiram-Aj&bg_color=000000&color=4fff67&line=22c55e&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-
-<details>
-    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
-
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=Abhiram-Aj)
-
-</details>
-
-<details>
-    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
-
-![Metrics](https://metrics.lecoq.io/Abhiram-Aj?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)
-
-</details> 
-
-
 
 <p align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhiram-Aj&show_icons=true&theme=dark&locale=en&layout=compact" alt="Abhiram-Aj" /></p>
