@@ -29,6 +29,14 @@ _______
 <img src="https://telegra.ph/file/72a4abf2a093bc0d4f6ed.jpg">
 --->
 <h1>Try Hack Me</h1>
+<!doctype html>
+<html>
+  <head><meta charset="utf-8"><title>TryHackMe Badge Embed</title></head>
+  <body>
+    <!-- use your server as the iframe source -->
+    <iframe src="/proxy/badge?user=1622532" style="border:none;width:600px;height:400px;"></iframe>
+  </body>
+</html>
 <iframe> src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1622532" style='border:none;'></iframe>
 <b>
 <p align="center">
